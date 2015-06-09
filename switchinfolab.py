@@ -159,7 +159,7 @@ def getCDP(xml):
 #################
 
 # Switch Info
-ip="10.87.6.201"
+ip="10.87.6.xxx"
 user="admin"
 password="Cisco321"
 
